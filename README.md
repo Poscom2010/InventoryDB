@@ -20,6 +20,7 @@ If need to copy and use the repo, you need to clone through git.
 ```bash
 git clone https://github.com/Poscom2010/InventoryDB.git
 
+```
 
 ##  Summary of Tables and Relationships explanation
 | Table                | Related Table     | Relationship Type |
