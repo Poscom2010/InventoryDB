@@ -18,4 +18,4 @@ This project is a relational database system built using MySQL to track the move
 If need to copy and use the repo, you need to clone through git. 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/inventory-tracking-system.git
+git clone https://github.com/Poscom2010/InventoryDB.git
