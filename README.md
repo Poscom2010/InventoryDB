@@ -19,3 +19,15 @@ If need to copy and use the repo, you need to clone through git.
 1. Clone the repo:
 ```bash
 git clone https://github.com/Poscom2010/InventoryDB.git
+
+
+##  Summary of Tables and Relationships explanation
+| Table                | Related Table     | Relationship Type |
+| -------------------- | ----------------- | ----------------- |
+| `product_categories` | `products`        | One-to-Many       |
+| `products`           | `stock_movements` | One-to-Many       |
+| `products`           | `stock_levels`    | One-to-Many       |
+| `warehouses`         | `stock_movements` | One-to-Many       |
+| `warehouses`         | `stock_levels`    | One-to-Many       |
+| `users`              | `stock_movements` | One-to-Many       |
+
