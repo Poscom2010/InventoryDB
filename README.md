@@ -32,4 +32,5 @@ git clone https://github.com/Poscom2010/InventoryDB.git
 | `warehouses`         | `stock_levels`    | One-to-Many       |
 | `users`              | `stock_movements` | One-to-Many       |
 
+
 🖱🖲💻🧡🧡🧡🧡🧡🖱🖲💻 Happy Databasing
